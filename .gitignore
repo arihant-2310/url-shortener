@@ -1,2 +1,4 @@
 .idea
 url-shortener.iml
+.env
+node_modules
